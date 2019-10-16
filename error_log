@@ -1,0 +1,261 @@
+[09-May-2018 20:05:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/jnesttec/public_html/meetingspace/login.inc.php:1) in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 4
+[09-May-2018 20:05:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jnesttec/public_html/meetingspace/login.inc.php:1) in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 7
+[09-May-2018 20:06:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/jnesttec/public_html/meetingspace/login.inc.php:1) in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 4
+[09-May-2018 20:06:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jnesttec/public_html/meetingspace/login.inc.php:1) in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 7
+[09-May-2018 20:07:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/jnesttec/public_html/meetingspace/login.inc.php:1) in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 4
+[09-May-2018 20:07:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jnesttec/public_html/meetingspace/login.inc.php:1) in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 7
+[09-May-2018 20:07:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/jnesttec/public_html/meetingspace/login.inc.php:1) in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 4
+[09-May-2018 20:07:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jnesttec/public_html/meetingspace/login.inc.php:1) in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 7
+[09-May-2018 20:10:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obstart() in /home3/jnesttec/public_html/meetingspace/login.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 3
+[09-May-2018 20:10:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obstart() in /home3/jnesttec/public_html/meetingspace/login.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 3
+[09-May-2018 20:12:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obstart() in /home3/jnesttec/public_html/meetingspace/login.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 3
+[09-May-2018 20:14:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obstart() in /home3/jnesttec/public_html/meetingspace/login.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 3
+[09-May-2018 20:16:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obstart() in /home3/jnesttec/public_html/meetingspace/login.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 3
+[09-May-2018 20:16:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obstart() in /home3/jnesttec/public_html/meetingspace/login.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 3
+[09-May-2018 20:17:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obstart() in /home3/jnesttec/public_html/meetingspace/login.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 3
+[09-May-2018 20:23:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 113
+[09-May-2018 20:23:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 138
+[09-May-2018 20:23:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 140
+[09-May-2018 20:23:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 231
+[09-May-2018 20:23:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 256
+[09-May-2018 20:23:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 258
+[09-May-2018 20:34:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 113
+[09-May-2018 20:34:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 138
+[09-May-2018 20:34:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 140
+[09-May-2018 20:34:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 231
+[09-May-2018 20:34:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 256
+[09-May-2018 20:34:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 258
+[09-May-2018 20:34:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 113
+[09-May-2018 20:34:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 138
+[09-May-2018 20:34:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 140
+[09-May-2018 20:34:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 231
+[09-May-2018 20:34:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 256
+[09-May-2018 20:34:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 258
+[09-May-2018 20:35:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 113
+[09-May-2018 20:35:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 138
+[09-May-2018 20:35:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 140
+[09-May-2018 20:35:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 231
+[09-May-2018 20:35:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 256
+[09-May-2018 20:35:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 258
+[09-May-2018 20:35:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 113
+[09-May-2018 20:35:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 138
+[09-May-2018 20:35:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 140
+[09-May-2018 20:35:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 231
+[09-May-2018 20:35:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 256
+[09-May-2018 20:35:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 258
+[09-May-2018 20:35:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 113
+[09-May-2018 20:35:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 138
+[09-May-2018 20:35:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 140
+[09-May-2018 20:35:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 231
+[09-May-2018 20:35:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 256
+[09-May-2018 20:35:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 258
+[09-May-2018 20:35:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 113
+[09-May-2018 20:35:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 138
+[09-May-2018 20:35:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 140
+[09-May-2018 20:35:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 231
+[09-May-2018 20:35:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 256
+[09-May-2018 20:35:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 258
+[09-May-2018 20:36:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 113
+[09-May-2018 20:36:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 138
+[09-May-2018 20:36:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 140
+[09-May-2018 20:36:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 231
+[09-May-2018 20:36:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 256
+[09-May-2018 20:36:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 258
+[09-May-2018 20:38:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 113
+[09-May-2018 20:38:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 138
+[09-May-2018 20:38:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 140
+[09-May-2018 20:38:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 231
+[09-May-2018 20:38:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 256
+[09-May-2018 20:38:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 258
+[09-May-2018 20:38:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:38:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:38:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:38:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 230
+[09-May-2018 20:38:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:38:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 257
+[09-May-2018 20:39:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:39:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:39:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:39:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 230
+[09-May-2018 20:39:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:39:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 257
+[09-May-2018 20:45:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:45:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:45:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:45:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 230
+[09-May-2018 20:45:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 254
+[09-May-2018 20:45:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 256
+[09-May-2018 20:47:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:47:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:47:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:47:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 229
+[09-May-2018 20:47:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 253
+[09-May-2018 20:47:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:48:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:48:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:48:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:48:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 229
+[09-May-2018 20:48:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 253
+[09-May-2018 20:48:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:48:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:48:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:48:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:48:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 229
+[09-May-2018 20:48:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 253
+[09-May-2018 20:48:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:48:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 73
+[09-May-2018 20:48:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:48:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:48:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:48:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 179
+[09-May-2018 20:48:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jnesttec/public_html/meetingspace/admin-dashboard.php:1) in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 181
+[09-May-2018 20:48:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 229
+[09-May-2018 20:48:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 253
+[09-May-2018 20:48:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:50:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 73
+[09-May-2018 20:50:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:50:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:50:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:50:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 179
+[09-May-2018 20:50:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jnesttec/public_html/meetingspace/admin-dashboard.php:1) in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 181
+[09-May-2018 20:50:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 229
+[09-May-2018 20:50:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 253
+[09-May-2018 20:50:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:51:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 73
+[09-May-2018 20:51:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:51:01 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:51:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:51:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 179
+[09-May-2018 20:51:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jnesttec/public_html/meetingspace/admin-dashboard.php:1) in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 181
+[09-May-2018 20:51:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 229
+[09-May-2018 20:51:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 253
+[09-May-2018 20:51:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:51:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 73
+[09-May-2018 20:51:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:51:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:51:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:51:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 179
+[09-May-2018 20:51:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jnesttec/public_html/meetingspace/admin-dashboard.php:1) in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 181
+[09-May-2018 20:51:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 229
+[09-May-2018 20:51:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 253
+[09-May-2018 20:51:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:51:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 73
+[09-May-2018 20:51:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:51:43 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:51:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:51:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 179
+[09-May-2018 20:51:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jnesttec/public_html/meetingspace/admin-dashboard.php:1) in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 181
+[09-May-2018 20:51:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 229
+[09-May-2018 20:51:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 253
+[09-May-2018 20:51:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:53:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 73
+[09-May-2018 20:53:06 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:53:06 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:53:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:53:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 179
+[09-May-2018 20:53:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jnesttec/public_html/meetingspace/admin-dashboard.php:1) in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 181
+[09-May-2018 20:53:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 229
+[09-May-2018 20:53:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 253
+[09-May-2018 20:53:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:53:20 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 114
+[09-May-2018 20:53:20 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 139
+[09-May-2018 20:53:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 141
+[09-May-2018 20:53:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 229
+[09-May-2018 20:53:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 253
+[09-May-2018 20:53:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:54:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 229
+[09-May-2018 20:54:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 253
+[09-May-2018 20:54:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 255
+[09-May-2018 20:59:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jnesttec/public_html/meetingspace/admin-dashboard.php:1) in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 179
+[09-May-2018 21:00:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jnesttec/public_html/meetingspace/connection.php on line 19
+[09-May-2018 21:03:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jnesttec/public_html/meetingspace/connection.php on line 19
+[09-May-2018 21:05:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jnesttec/public_html/meetingspace/connection.php on line 19
+[09-May-2018 21:15:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jnesttec/public_html/meetingspace/fetch.php on line 3
+[09-May-2018 21:15:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:15:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:15:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 42
+[09-May-2018 21:15:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 46
+[09-May-2018 21:15:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 60
+[09-May-2018 21:15:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 61
+[09-May-2018 21:16:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jnesttec/public_html/meetingspace/fetch.php on line 3
+[09-May-2018 21:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 42
+[09-May-2018 21:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 46
+[09-May-2018 21:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 60
+[09-May-2018 21:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 61
+[09-May-2018 21:16:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obstart() in /home3/jnesttec/public_html/meetingspace/login.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/jnesttec/public_html/meetingspace/login.inc.php on line 3
+[09-May-2018 21:17:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 113
+[09-May-2018 21:17:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 136
+[09-May-2018 21:17:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 138
+[09-May-2018 21:17:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 226
+[09-May-2018 21:17:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 250
+[09-May-2018 21:17:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 252
+[09-May-2018 21:17:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 113
+[09-May-2018 21:17:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 136
+[09-May-2018 21:17:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 138
+[09-May-2018 21:17:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 226
+[09-May-2018 21:17:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 250
+[09-May-2018 21:17:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/admin-dashboard.php on line 252
+[09-May-2018 21:17:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jnesttec/public_html/meetingspace/fetch.php on line 3
+[09-May-2018 21:17:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:17:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:17:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 42
+[09-May-2018 21:17:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 46
+[09-May-2018 21:17:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 60
+[09-May-2018 21:17:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 61
+[09-May-2018 21:19:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jnesttec/public_html/meetingspace/fetch.php on line 3
+[09-May-2018 21:19:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:19:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:19:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 42
+[09-May-2018 21:19:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 46
+[09-May-2018 21:19:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 60
+[09-May-2018 21:19:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 61
+[09-May-2018 21:28:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home3/jnesttec/public_html/meetingspace/signup.inc.php on line 12
+[09-May-2018 21:32:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home3/jnesttec/public_html/meetingspace/SignupProcessor.php on line 12
+[09-May-2018 21:36:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home3/jnesttec/public_html/meetingspace/SignupProcessor.php on line 12
+[09-May-2018 21:44:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jnesttec/public_html/meetingspace/fetch.php on line 3
+[09-May-2018 21:44:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:44:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:44:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 42
+[09-May-2018 21:44:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 46
+[09-May-2018 21:44:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 60
+[09-May-2018 21:44:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 61
+[09-May-2018 21:44:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jnesttec/public_html/meetingspace/fetch.php on line 3
+[09-May-2018 21:44:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:44:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:44:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 42
+[09-May-2018 21:44:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 46
+[09-May-2018 21:44:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 60
+[09-May-2018 21:44:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 61
+[09-May-2018 21:44:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jnesttec/public_html/meetingspace/fetch.php on line 3
+[09-May-2018 21:44:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:44:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 40
+[09-May-2018 21:44:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 42
+[09-May-2018 21:44:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 46
+[09-May-2018 21:44:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 60
+[09-May-2018 21:44:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/jnesttec/public_html/meetingspace/fetch.php on line 61
